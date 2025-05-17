@@ -1,0 +1,15 @@
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfoInputs.cache
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfo.cs
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.csproj.CoreCompileInputs.cache
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.sourcelink.json
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\bin\Debug\net8.0\Resumes.exe
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\bin\Debug\net8.0\Resumes.deps.json
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\bin\Debug\net8.0\Resumes.runtimeconfig.json
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\bin\Debug\net8.0\Resumes.dll
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\bin\Debug\net8.0\Resumes.pdb
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.dll
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\refint\Resumes.dll
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.pdb
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\Resumes.genruntimeconfig.cache
+C:\Users\zambr\OneDrive\Documentos\cse210-projects\week02\Resumes\obj\Debug\net8.0\ref\Resumes.dll

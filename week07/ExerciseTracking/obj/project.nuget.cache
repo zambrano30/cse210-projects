@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yOGrKiugxJY=",
+  "dgSpecHash": "QuFmeTSJkMk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
+  "projectFilePath": "C:\\Homework\\College\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zambr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
     "C:\\Users\\zambr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",

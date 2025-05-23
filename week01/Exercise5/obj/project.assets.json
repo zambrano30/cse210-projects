@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise5\\Exercise5.csproj",
+      "projectUniqueName": "C:\\Homework\\College\\cse210-projects\\week01\\Exercise5\\Exercise5.csproj",
       "projectName": "Exercise5",
-      "projectPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise5\\Exercise5.csproj",
+      "projectPath": "C:\\Homework\\College\\cse210-projects\\week01\\Exercise5\\Exercise5.csproj",
       "packagesPath": "C:\\Users\\zambr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise5\\obj\\",
+      "outputPath": "C:\\Homework\\College\\cse210-projects\\week01\\Exercise5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zambr\\AppData\\Roaming\\NuGet\\NuGet.Config"

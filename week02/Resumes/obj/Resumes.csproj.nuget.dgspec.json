@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week02\\Resumes\\Resumes.csproj": {}
+    "C:\\Homework\\College\\cse210-projects\\week02\\Resumes\\Resumes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week02\\Resumes\\Resumes.csproj": {
+    "C:\\Homework\\College\\cse210-projects\\week02\\Resumes\\Resumes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week02\\Resumes\\Resumes.csproj",
+        "projectUniqueName": "C:\\Homework\\College\\cse210-projects\\week02\\Resumes\\Resumes.csproj",
         "projectName": "Resumes",
-        "projectPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week02\\Resumes\\Resumes.csproj",
+        "projectPath": "C:\\Homework\\College\\cse210-projects\\week02\\Resumes\\Resumes.csproj",
         "packagesPath": "C:\\Users\\zambr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week02\\Resumes\\obj\\",
+        "outputPath": "C:\\Homework\\College\\cse210-projects\\week02\\Resumes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zambr\\AppData\\Roaming\\NuGet\\NuGet.Config"

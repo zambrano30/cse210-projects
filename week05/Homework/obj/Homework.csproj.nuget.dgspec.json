@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week05\\Homework\\Homework.csproj": {}
+    "C:\\Homework\\College\\cse210-projects\\week05\\Homework\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week05\\Homework\\Homework.csproj": {
+    "C:\\Homework\\College\\cse210-projects\\week05\\Homework\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week05\\Homework\\Homework.csproj",
+        "projectUniqueName": "C:\\Homework\\College\\cse210-projects\\week05\\Homework\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week05\\Homework\\Homework.csproj",
+        "projectPath": "C:\\Homework\\College\\cse210-projects\\week05\\Homework\\Homework.csproj",
         "packagesPath": "C:\\Users\\zambr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week05\\Homework\\obj\\",
+        "outputPath": "C:\\Homework\\College\\cse210-projects\\week05\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zambr\\AppData\\Roaming\\NuGet\\NuGet.Config"

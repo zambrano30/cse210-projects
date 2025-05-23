@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wi6k0bV7pjE=",
+  "dgSpecHash": "rPsKXFCFZhc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week05\\Mindfulness\\Mindfulness.csproj",
+  "projectFilePath": "C:\\Homework\\College\\cse210-projects\\week05\\Mindfulness\\Mindfulness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zambr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
     "C:\\Users\\zambr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",

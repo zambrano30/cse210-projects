@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
+      "projectUniqueName": "C:\\Homework\\College\\cse210-projects\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
       "projectName": "OnlineOrdering",
-      "projectPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
+      "projectPath": "C:\\Homework\\College\\cse210-projects\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
       "packagesPath": "C:\\Users\\zambr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week04\\OnlineOrdering\\obj\\",
+      "outputPath": "C:\\Homework\\College\\cse210-projects\\week04\\OnlineOrdering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zambr\\AppData\\Roaming\\NuGet\\NuGet.Config"

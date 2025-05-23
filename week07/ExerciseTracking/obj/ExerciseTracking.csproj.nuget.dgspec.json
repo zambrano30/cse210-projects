@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {}
+    "C:\\Homework\\College\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {
+    "C:\\Homework\\College\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
+        "projectUniqueName": "C:\\Homework\\College\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
         "projectName": "ExerciseTracking",
-        "projectPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
+        "projectPath": "C:\\Homework\\College\\cse210-projects\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
         "packagesPath": "C:\\Users\\zambr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week07\\ExerciseTracking\\obj\\",
+        "outputPath": "C:\\Homework\\College\\cse210-projects\\week07\\ExerciseTracking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zambr\\AppData\\Roaming\\NuGet\\NuGet.Config"

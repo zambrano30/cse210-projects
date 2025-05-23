@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj": {}
+    "C:\\Homework\\College\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj": {
+    "C:\\Homework\\College\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj",
+        "projectUniqueName": "C:\\Homework\\College\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj",
         "projectName": "Exercise1",
-        "projectPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj",
+        "projectPath": "C:\\Homework\\College\\cse210-projects\\week01\\Exercise1\\Exercise1.csproj",
         "packagesPath": "C:\\Users\\zambr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zambr\\OneDrive\\Documentos\\cse210-projects\\week01\\Exercise1\\obj\\",
+        "outputPath": "C:\\Homework\\College\\cse210-projects\\week01\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zambr\\AppData\\Roaming\\NuGet\\NuGet.Config"

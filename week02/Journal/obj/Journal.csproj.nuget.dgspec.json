@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Homework\\College\\cse210-projects\\week02\\Journal\\Journal.csproj",
         "projectName": "Journal",
         "projectPath": "C:\\Homework\\College\\cse210-projects\\week02\\Journal\\Journal.csproj",
-        "packagesPath": "C:\\Users\\zambr\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\Homework\\College\\cse210-projects\\week02\\Journal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zambr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

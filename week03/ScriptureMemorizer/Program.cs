@@ -13,7 +13,7 @@ class Program
         Scripture scripture = new Scripture(_reference, scriptureText);
         while (true)
         {
-            Console.Clear();
+            Console.Clear();*
             scripture.Display();
             if (scripture.AllWordsHidden())
             {

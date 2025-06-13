@@ -1,3 +1,9 @@
 {
-    "editor.autoSurround": "never"
+    "editor.autoSurround": "never",
+    "files.autoSaveWhenNoErrors": true,
+    "dotnet.autoInsert.enableAutoInsert": false,
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingBrackets": "always",
+    "python.analysis.autoImportCompletions": true
 }

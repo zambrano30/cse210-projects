@@ -64,8 +64,8 @@ class Program
                         Console.WriteLine($"{j + 1}. {goals[j].GetDetailsString()}");
                     int idx = int.Parse(Console.ReadLine()) - 1;
                     goals[idx].RecordEvent();
-                    // Suma puntos según el tipo de goal (puedes mejorar esto)
-                    // Ejemplo: score += int.Parse(goals[idx].Points);
+                    // Add points according to the goal type (you can improve this)
+                    // Example: score += int.Parse(goals[idx].Points);
                     break;
 
                 case "4":
@@ -73,12 +73,12 @@ class Program
                     break;
 
                 case "5":
-                    // Implementa guardar a archivo
+                    // Implement saving to file
                     Console.WriteLine("Saving goals... (implement this)");
                     break;
 
                 case "6":
-                    // Implementa cargar desde archivo
+                    // Implement loading from file
                     Console.WriteLine("Loading goals... (implement this)");
                     break;
 
